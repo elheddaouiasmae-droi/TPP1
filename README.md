@@ -124,9 +124,9 @@ php exercice5-heritage/index.php
 
 ## 👨‍💻 Auteur
 
-**Abdenour**
+**Asmae**
 🎓 OFPPT — ISTA Bab Tizimi, Meknès
-📚 Filière : Développement Digital option Web Full Stack (DEVOWFS)
+📚 Filière : Développement Digital option Web Full Stack (DEVOWFS 204)
 
 ---
 
