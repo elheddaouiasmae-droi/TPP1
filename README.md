@@ -1,16 +1,7 @@
-<div align="center">
-
 # 🐘 Cahier d'Exercices Pratiques
 ### Développement Backend (PHP) — Module M205
 
-![PHP](https://img.shields.io/badge/PHP-8.0%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TP](https://img.shields.io/badge/Travaux%20Pratiques-5-success?style=for-the-badge)
-![Next](https://img.shields.io/badge/Prochaine%20étape-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Status](https://img.shields.io/badge/Statut-Terminé-brightgreen?style=for-the-badge)
-
 *Maîtriser les fondamentaux de PHP avant de se lancer dans Laravel.*
-
-</div>
 
 ---
 
@@ -24,18 +15,6 @@ L'objectif est de construire une base solide pas à pas :
 - 🔹 Les **tableaux** (indexés et associatifs)
 - 🔹 La **programmation orientée objet (POO)**
 - 🔹 L'**héritage** et le **polymorphisme**
-
----
-
-## 🎯 Contenu des TP
-
-| N° | Dossier | Thème | Fichiers |
-|:--:|---------|-------|----------|
-| 1 | `activite1-fonctions` | 🧩 Fonctions | `fonctions.php`, `test.php` |
-| 2 | `exercice2-tableaux-indexes` | 📋 Tableaux indexés | `tableaux.php` |
-| 3 | `exercice3-tableaux-associatifs` | 🗂️ Tableaux associatifs | `associatifs.php` |
-| 4 | `exercice4-classes` | 🏦 Classes & objets (POO) | `CompteBancaire.php`, `test.php` |
-| 5 | `exercice5-heritage` | 🧬 Héritage & polymorphisme | `CompteBancaire.php`, `CompteEpargne.php`, `CompteCourant.php`, `Banque.php`, `index.php` |
 
 ---
 
@@ -124,14 +103,6 @@ php exercice5-heritage/index.php
 
 ## 👨‍💻 Auteur
 
-**Asmae**
+**Abdenour**
 🎓 OFPPT — ISTA Bab Tizimi, Meknès
-📚 Filière : Développement Digital option Web Full Stack (DEVOWFS 204)
-
----
-
-<div align="center">
-
-⭐ *Prochaine étape : le framework **Laravel*** ⭐
-
-</div>
+📚 Filière : Développement Digital option Web Full Stack (DEVOWFS)
